@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akkii1969
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java,DSA
+- 🌱 I’m currently learning java,SQL,Html,CSS,SAP
 - 💞️ I’m looking to collaborate on reputated organisations
 - 📫 How to reach me ... chaudharyakshay721@gmail.com
 
